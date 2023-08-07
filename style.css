@@ -1,0 +1,11 @@
+.header{
+    font-size: 30px;
+}
+
+.btn{
+    background-color: rgb(106, 203, 106);
+    border-color: green;
+}
+.text, title{
+    border-color: rgb(178, 177, 177);
+}
